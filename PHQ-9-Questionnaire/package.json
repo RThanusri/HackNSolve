@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo SET NODE_OPTIONS=--openssl-legacy-provider \"Error: no test specified\" && exit 1"
   },
   "author": "Yuraima Estevez",
   "license": "ISC",
